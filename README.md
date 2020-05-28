@@ -14,9 +14,7 @@ In order to conect to Flyway CLI you need to add in flyway.config your database 
 
 
 ```
-flyway.url=jdbc:oracle:thin:@ech-10-157-150-221.mastercard.int:1527:devcloud
-flyway.user= devadmin
-flyway.password= Zse45tgb
+
 
 ```
 
